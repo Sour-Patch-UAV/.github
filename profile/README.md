@@ -22,3 +22,6 @@ _Goals for this project include, but are not limited to_:
 - Development of physical UAV w/ simplified PCB and Teensy 4.0
 - Presentation of final project
 ---
+
+### Source Code ReadMe
+> https://github.com/Sour-Patch-UAV/UAV-Sour
